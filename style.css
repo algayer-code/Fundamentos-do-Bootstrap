@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(63, 63, 63);
+    color: #cacaca;
+    font-style: oblique;
+}
+
+.container {
+    margin-top: 128px;
+    max-width: 500px;
+}
+
+.button {
+    margin: 16px 0;
+}
